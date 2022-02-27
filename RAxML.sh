@@ -1,0 +1,1 @@
+nohup ~/biosoft/standard-RAxML-8.2.12/raxmlHPC-PTHREADS-AVX -f a -x 12345 -p 12345 -s ./2-1/2-1.LD.pruned.min4.phy -T 12 -m GTRCAT -n 2-1 -# 1000 > 2-1.log 2>&1 &
