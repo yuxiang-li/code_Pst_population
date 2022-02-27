@@ -1,1 +1,1 @@
-This file contains codes used for analyses in the manuscript.
+# code_Pst_population
