@@ -1,0 +1,1 @@
+plink --allow-extra-chr --chr-set 94 no-xy no-mt --threads 12 --bfile --pca 20 --out 
