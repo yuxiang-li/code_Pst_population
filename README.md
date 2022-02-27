@@ -1,1 +1,1 @@
-# code_Pst_population
+Codes used for Pst population study in China.
