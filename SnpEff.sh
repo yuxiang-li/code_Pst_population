@@ -1,0 +1,1 @@
+Java -jar snpEff.jar ann DK0911_p combine.vcf -ud 1500
